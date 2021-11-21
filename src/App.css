@@ -1,0 +1,17 @@
+code{
+  background-color: white;
+  color: black;
+}
+textarea{
+  font-family: 'Mukta', sans-serif;
+}
+body{
+  font-family: 'Mukta', sans-serif;
+}
+#preview img {
+  max-width: 100%;
+}
+h1,h2,h3{
+  text-decoration: underline;
+  color: lightblue;
+}
